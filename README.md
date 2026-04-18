@@ -67,7 +67,4 @@ Tools            Git · Linux · Vercel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mapaski-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mapaski)
 [![GitHub](https://img.shields.io/badge/GitHub-mapaski-181717?style=flat&logo=github&logoColor=white)](https://github.com/mapaski)
-
-
-![Manaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapaski&show_icons=true&theme=dark&hide_border=true)
 ![stats](https://github-readme-stats.vercel.app/api?username=mapaski&show_icons=true&theme=dark&hide_border=true&count_private=true)
