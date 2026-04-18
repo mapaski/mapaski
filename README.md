@@ -1,7 +1,7 @@
 # Hi, I'm Manaswi 👋
 
 BTech Computer Engineering student at MIT Academy of Engineering, Pune (2025–29).
-I build things at the intersection of **cybersecurity** and **AI** — real tools, deployed, not just tutorials.
+I build things at the intersection of **cybersecurity** and **AI**: real tools, deployed, not just tutorials.
 
 ---
 
@@ -31,17 +31,18 @@ Real-time fraud detection that builds a **personal behavioral profile per card**
 
 ## Skills
 
+```
 Cybersecurity    IoT Security · Network Security · Honeypot Development
                  Intrusion Detection · MITRE ATT&CK · OWASP · Nmap
-
+ 
 Frontend         React · TypeScript · Vite · Tailwind CSS · Streamlit
-
+ 
 Backend          Python · Flask · REST APIs
-
+ 
 ML / Data        scikit-learn · SHAP · pandas · NumPy · Plotly
-
+ 
 Tools            Git · Linux · Vercel
-
+```
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
