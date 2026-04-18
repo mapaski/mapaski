@@ -70,3 +70,4 @@ Tools            Git · Linux · Vercel
 
 
 ![Manaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapaski&show_icons=true&theme=dark&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=mapaski&show_icons=true&theme=dark&hide_border=true&count_private=true)
