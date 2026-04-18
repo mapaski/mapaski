@@ -31,7 +31,6 @@ Real-time fraud detection that builds a **personal behavioral profile per card**
 
 ## Skills
 
-```
 Cybersecurity    IoT Security · Network Security · Honeypot Development
                  Intrusion Detection · MITRE ATT&CK · OWASP · Nmap
 
