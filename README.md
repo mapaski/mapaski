@@ -1,31 +1,7 @@
 # Hi, I'm Manaswi 👋
 
 BTech Computer Engineering student at MIT Academy of Engineering, Pune (2025–29).
-I build things at the intersection of **cybersecurity** and **AI**: real tools, deployed, not just tutorials.
-
----
-
-## What I've built
-
-### 🔒 [SHURI](https://github.com/mapaski/shuri) — IoT Security Platform
-An edge-deployed IoT defense system that scans local networks, scores devices by **blast radius** (how much damage their compromise causes), and catches intrusions using honeypot deception services.
-
-- Built the full React/TypeScript dashboard with live device scanning and alert feeds
-- Wrote honeypot services simulating Telnet, HTTP admin, MQTT, and SSH
-- Mapped findings to **MITRE ATT&CK** and **OWASP IoT Top 10**
-- Stack: `React` `TypeScript` `Vite` `Tailwind` `Python` `Flask`
-- 🌐 [Live demo](https://shuri-dashboard.vercel.app)
-
----
-
-### 🛡️ [TrustSentinel](https://github.com/ruushhdaa/TrustSentinel) — UPI Fraud Detection Engine
-Real-time fraud detection that builds a **personal behavioral profile per card** — instead of comparing you to everyone, it asks: *is this suspicious for this specific person?*
-
-- Built the Streamlit dashboard: bank view (live feed, alert terminal, drift monitoring) and customer view (risk gauge, plain-English explanations)
-- Two-tier engine: rule-based + Random Forest with SMOTE on 590k real IEEE-CIS transactions
-- **AUC-ROC: 0.93 · Precision: 81%** on 118k unseen transactions
-- Stack: `Python` `scikit-learn` `SHAP` `Streamlit` `Plotly` `NetworkX`
-- 🌐 [Live demo](https://trustsentinel-paradigm.streamlit.app)
+I build things at the intersection of **cybersecurity** and **AI** all with real tools, deployed, not just tutorials, make sure to take your time and go through my work and collaborations:)
 
 ---
 
