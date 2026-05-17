@@ -18,7 +18,7 @@ Tools           Git · Linux · Vercel · Kali
 
 **Currently**
 
-- 2nd year BTech CE @ MITAOE
+- 1st year BTech CE @ MITAOE
 - Building security-focused systems with real deployment pipelines
 - Open to cybersecurity / applied AI internships
 -  Summer 2026
