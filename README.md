@@ -1,4 +1,4 @@
-### Manaswi
+### Hi there, I'm [Manaswi](https://mapaski.github.io/Portfolio/)
 
 BTech Computer Engineering · MITAOE Pune · 2025–29 
 
